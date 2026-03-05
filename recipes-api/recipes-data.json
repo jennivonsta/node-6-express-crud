@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Spaghetti with Red Sauce",
+    "cookingMethod": "stove-top boil",
+    "ingredients": [
+      "spaghetti",
+      "tomato sauce",
+      "tomato paste",
+      "ground beef",
+      "salt",
+      "pepper",
+      "garlic",
+      "onion",
+      "parmesan cheese"
+    ]
+  },
+  {
+    "name": "Fried Chicken",
+    "cookingMethod": "deep fry",
+    "ingredients": ["chicken", "flour", "salt", "pepper", "garlic", "oil"]
+  },
+  {
+    "name": "Crispy Tofu",
+    "cookingMethod": "stir fry",
+    "ingredients": ["tofu", "salt", "pepper", "garlic", "oil", "scallions"]
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "cookingMethod": "pan fry",
+    "ingredients": ["bread", "cheddar cheese", "butter"]
+  },
+  {
+    "name": "Baked Salmon",
+    "cookingMethod": "oven bake",
+    "ingredients": ["salmon", "lemon", "salt", "pepper", "dill", "olive oil"]
+  },
+  {
+    "name": "Vegetable Soup",
+    "cookingMethod": "simmer",
+    "ingredients": [
+      "carrots",
+      "celery",
+      "onion",
+      "garlic",
+      "potatoes",
+      "tomatoes",
+      "vegetable broth",
+      "salt",
+      "pepper"
+    ]
+  }
+]
