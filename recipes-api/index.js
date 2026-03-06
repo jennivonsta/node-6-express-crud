@@ -5,8 +5,10 @@
 import express from "express";
 import fs from "fs/promises";
 
+console.log("RECIPES SERVER FILE IS RUNNING");
+
 const app = express();
-const port = 3000;
+const port = 3001;
 
 app.use(express.json());
 
